@@ -1,0 +1,122 @@
+[
+    {
+        "currency_name": "港币",
+        "currency_code": "HKD"
+    },
+    {
+        "currency_name": "澳门元",
+        "currency_code": "MOP"
+    },
+    {
+        "currency_name": "日元",
+        "currency_code": "JPY"
+    },
+    {
+        "currency_name": "菲律宾比索",
+        "currency_code": "PHP"
+    },
+    {
+        "currency_name": "新加坡元",
+        "currency_code": "SGD"
+    },
+    {
+        "currency_name": "欧元",
+        "currency_code": "EUR"
+    },
+    {
+        "currency_name": "丹麦克朗",
+        "currency_code": "DKK"
+    },
+    {
+        "currency_name": "挪威克朗",
+        "currency_code": "NOK"
+    },
+    {
+        "currency_name": "瑞典克朗",
+        "currency_code": "SEK"
+    },
+    {
+        "currency_name": "芬兰马克",
+        "currency_code": "FIM"
+    },
+    {
+        "currency_name": "卢布",
+        "currency_code": "SUR"
+    },
+    {
+        "currency_name": "瑞士法郎",
+        "currency_code": "CHF"
+    },
+    {
+        "currency_name": "荷兰盾",
+        "currency_code": "NLG"
+    },
+    {
+        "currency_name": "比利时法郎",
+        "currency_code": "BEF"
+    },
+    {
+        "currency_name": "英镑",
+        "currency_code": "GBP"
+    },
+    {
+        "currency_name": "美元",
+        "currency_code": "USD"
+    },
+    {
+        "currency_name": "澳大利亚元",
+        "currency_code": "AUD"
+    },
+    {
+        "currency_name": "新西兰元",
+        "currency_code": "NZD"
+    },
+    {
+        "currency_name": "阿联酋迪拉姆",
+        "currency_code": "AED"
+    },
+    {
+        "currency_name": "意大利里拉",
+        "currency_code": "ITL"
+    },
+    {
+        "currency_name": "印尼卢比",
+        "currency_code": "IDR"
+    },
+    {
+        "currency_name": "加拿大元",
+        "currency_code": "CAD"
+    },
+    {
+        "currency_name": "沙特里亚尔",
+        "currency_code": "SAR"
+    },
+    {
+        "currency_name": "印度卢比",
+        "currency_code": "INR"
+    },
+    {
+        "currency_name": "林吉特",
+        "currency_code": "MYR"
+    },
+    {
+        "currency_name": "巴西里亚尔",
+        "currency_code": "BRL"
+    },
+    {
+        "currency_name": "泰国铢",
+        "currency_code": "THP"
+    },
+    {
+        "currency_name": "新台币",
+        "currency_code": "TWD"
+    },
+    {
+        "currency_name": "南非兰特",
+        "currency_code": "ZAR"
+    },
+    {
+        "currency_name": "韩国元",
+        "currency_code": "KRW"
+    }
+]
